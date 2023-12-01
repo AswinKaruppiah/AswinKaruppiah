@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
-- 💻 I work with **React.js, Angular.js, Node/Express, Javascript, Typescript, Bootstrap, TailwindCSS, MongoDB, Gsap,**
+- 💻 I work with **React.js, Angular.js, Node/Express, MongoDB**
 
 - 📫 How to reach me **aswinthkaruppiah@gmail.com**
 
