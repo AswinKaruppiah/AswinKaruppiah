@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
-- 💻 I work with **React.js, Next.js, State Management, Web3 Integration, Node/Express, MongoDB**
+- 💻 I work with **React.js, Next.js, Web3 Integration, Node/Express, MongoDB**
 
 - 📫 How to reach me **aswinth27@outlook.com**
 
@@ -21,6 +21,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21~bgwhite.svg" alt="react" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/>
   
