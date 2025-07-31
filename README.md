@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
-- 💻 I work with **React.js, Angular.js, Node/Express, MongoDB**
+- 💻 I work with **React.js, Next.js, State Management, Web3 Integration, Node/Express, MongoDB**
 
-- 📫 How to reach me **aswinthkaruppiah@gmail.com**
+- 📫 How to reach me **aswinth27@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
